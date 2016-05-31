@@ -1,0 +1,8 @@
+[
+    {
+        "url": "http://pastebin.com/raw/5KhL8JyT", 
+        "logos": "", 
+        "image": "http://goo.gl/Gh6FLM", 
+        "name": "Pernalonga TV"
+    }
+]
