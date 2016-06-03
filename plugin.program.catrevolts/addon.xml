@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.catrevolts" name="[COLOR green][B]{C}[/B][/COLOR]AT REVOLTS" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary>CAT REVOLTS WIZARDS</summary>
+		<description>Esse Wizard permite instalar as builds House Geek e Parceiros </description>
+		<disclaimer></disclaimer>    
+	<platform>all</platform>
+  </extension>
+</addon>
