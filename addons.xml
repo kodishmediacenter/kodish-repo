@@ -211,4 +211,22 @@ http://www.hometheater.co.il</description>
     <website></website>
   </extension>
 </addon>
+
+<addon id="Kodish.repo.key" name="Kodish MC Repo Key" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Kodish MC Repo Key</summary>
+		<description lang="en">Addon de Correção do Repositorio do Kodish Media Center</description>
+		<disclaimer lang="en">Addon de Correção do Repositorio do Kodish Media Center</disclaimer>
+		<forum>none</forum>
+		<source></source>
+		<website></website>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
