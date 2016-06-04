@@ -54,7 +54,7 @@
 <addon id="plugin.video.pernalongatv" name="Pernalonga TV" version="1.0.0" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="repository.xbmc-israel" />
+	<import addon="plugin.video.playlistLoader" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -89,7 +89,6 @@
 <addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.9" provider-name="Avigdor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="repository.xbmc-israel" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -106,7 +105,7 @@ http://www.hometheater.co.il</description>
 <addon id="plugin.video.pokemontv" name="Pokemon Tv" version="1.0.0" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="repository.xbmc-israel" />
+	<import addon="plugin.video.playlistLoader" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -141,7 +140,7 @@ http://www.hometheater.co.il</description>
 <addon id="plugin.video.scoobydoo" name="Scooby-doo TV" version="1.0.0" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="repository.xbmc-israel" />
+	<import addon="plugin.video.playlistLoader" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>

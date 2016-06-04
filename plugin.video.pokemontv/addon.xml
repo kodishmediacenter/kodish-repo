@@ -2,7 +2,7 @@
 <addon id="plugin.video.pokemontv" name="Pokemon Tv" version="1.0.0" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="repository.xbmc-israel" />
+	<import addon="plugin.video.playlistLoader" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
