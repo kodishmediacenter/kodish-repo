@@ -18,26 +18,6 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.sapobrothers" name="Sapo Brothers" version="1.0.0" provider-name="HouseGeek">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-	
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-	
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Sapo Brothers</summary>
-    <description lang="en">Addon do canal Sapo Brothers</description>
-    <platform>all</platform>
-    <forum></forum>
-    <website></website>
-  </extension>
-</addon>
-
 <addon id="plugin.program.catrevolts" name="[COLOR green][B]{C}[/B][/COLOR]AT REVOLTS" version="1.0.0" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -209,6 +189,26 @@ http://www.hometheater.co.il</description>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">GSF VIDEOS</summary>
     <description lang="en">Playlist de Videos dos desenhos do marinheiro mais conhecido do mundo.Popeye Ã© um marinheiro que tenta proteger sua namorada das garras de seu grande inimigo Brutus. Quando come espinafre, Popeye ganha mais forÃ§a e confianÃ§a e consegue vencer qualquer desafio.</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sapobrothers" name="Sapo Brothers" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Sapo Brothers</summary>
+    <description lang="en">Addon do canal Sapo Brothers</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
