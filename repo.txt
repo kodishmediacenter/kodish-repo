@@ -3,3 +3,9 @@ url="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/key.
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Repo Key Não faca fresh start"
+
+name="Repo Key Sonic Fan Colection"
+url="https://ia801507.us.archive.org/5/items/kodish-pack/kodish-pack.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Repo Key Não faca fresh start"
