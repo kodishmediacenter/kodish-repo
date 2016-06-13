@@ -13,3 +13,9 @@ description="Repo Key Não faca fresh start"
 =======
 description="Repo Key Não faca fresh start"
 >>>>>>> parent of e432eec... repokey
+
+name="Repo Key Sonic Fan Colection Windows Fix"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/addons.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Repo Key Não faca fresh start"
