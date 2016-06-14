@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="Kodish.repo.key" name="Kodish MC Repo Key" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Kodish MC Repo Key</summary>
+		<description lang="en">Addon de CorreÃ§Ã£o do Repositorio do Kodish Media Center</description>
+		<disclaimer lang="en">Addon de CorreÃ§Ã£o do Repositorio do Kodish Media Center</disclaimer>
+		<forum>none</forum>
+		<source></source>
+		<website></website>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.program.catrevolts" name="[COLOR green][B]{C}[/B][/COLOR]AT REVOLTS" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary>CAT REVOLTS WIZARDS</summary>
+		<description>Esse Wizard permite instalar as builds House Geek e Parceiros </description>
+		<disclaimer></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.canaldaharu" name="Canal da Haru" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Canal da Haru</summary>
+    <description lang="en">Addon do Canal da Haru</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.docanimal" version="1.0.0" name="Documentario Animal" provider-name="HOUSEGEEK">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Documentario de Animal</summary>
+    <description lang="en">Esse addon contem todos melhores de videos de animais </description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.DocHistory" name="Addon da History" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Addon da History</summary>
+    <description lang="en">Addons de Documentarios Historicos</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.DocUfo" name="Addon DocUfo" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Addon de Documentarios Ufo</summary>
+    <description lang="en">Addons de Documentarios da Ufologia</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.dragonballtv" name="Dragon Ball TV" version="1.0.0" provider-name="House Geek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	 <import addon="plugin.video.playlistLoader"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Addon do Dragon Ball </summary>
+    <description lang="en">Este addon tem series do dragonball</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.gdrive" version="0.7.17" name="gdrive" provider-name="ddurdle">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video audio image programs</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Listen to music, watch videos and view photos from your Google Drive account</summary>
+        <description>Plays music and video from your Google Drive account.  Not affiliated with Google.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.masterchefbr" name="Master Chef Brasil" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Master Chef Brasil</summary>
+    <description lang="en">Canal do Master Chef Brasil</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pernalongatv" name="Pernalonga TV" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="plugin.video.playlistLoader" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.picapau" name="Pica Pau TV" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Pica Pau TV</summary>
+    <description lang="en">Playlist de Videos legais do pica pau</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.9" provider-name="Avigdor">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</summary>
+    <description lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pokemontv" name="Pokemon Tv" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="plugin.video.playlistLoader" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Assista seus episodios de pokemon na Pokemon Tv</summary>
+    <description lang="en">Assista seus episodios de pokemon na Pokemon Tv</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.popeye" version="1.0.0" name="POPEYE TV" provider-name="GSF VIDEOS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">GSF VIDEOS</summary>
+    <description lang="en">Playlist de Videos dos desenhos do marinheiro mais conhecido do mundo.Popeye Ã© um marinheiro que tenta proteger sua namorada das garras de seu grande inimigo Brutus. Quando come espinafre, Popeye ganha mais forÃ§a e confianÃ§a e consegue vencer qualquer desafio.</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sapobrothers" name="Sapo Brothers" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Sapo Brothers</summary>
+    <description lang="en">Addon do canal Sapo Brothers</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.scoobydoo" name="Scooby-doo TV" version="1.0.0" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="plugin.video.playlistLoader" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.TrapalhoesTV" name="Trapalhoes TV" version="1.0.1" provider-name="HouseGeek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Addon dos Trapalhoes</summary>
+    <description lang="en">Addons de Filmes dos Trapalhoes</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+</addons>
