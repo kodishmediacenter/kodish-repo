@@ -3,31 +3,31 @@ url="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/key.
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 <<<<<<< HEAD
-description="Repo Key Não faca fresh start"
+description="Repo Key NÃ£o faca fresh start"
 
 name="Repo Key Sonic Fan Colection"
 url="https://ia601504.us.archive.org/4/items/kodish-pack_201606/kodish-pack.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Repo Key Não faca fresh start"
+description="Repo Key NÃ£o faca fresh start"
 =======
-description="Repo Key Não faca fresh start"
+description="Repo Key NÃ£o faca fresh start"
 >>>>>>> parent of e432eec... repokey
 
 name="Repo Key Sonic Fan Colection Windows Fix"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/addons.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Repo Key Não faca fresh start"
+description="Repo Key NÃ£o faca fresh start"
 
 name="Super Addon do Milton Repo Key"
 url="https://ia801501.us.archive.org/13/items/Repokey/Repokey.zip"
 img="https://archive.org/download/fanart_20160614/fanart.jpg"
 fanart="https://archive.org/download/fanart_20160614/fanart.jpg"
-description="Repo Key Não faca fresh start"
+description="Repo Key NÃ£o faca fresh start"
 
 name="Repo Key Sem Bilhetes"
-https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/sembilhetes.zip
+url="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/sembilhetes.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Repo Key Não faca fresh start"
+description="Repo Key NÃ£o faca fresh start"
