@@ -19,3 +19,9 @@ url="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/addo
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.program.catrevolts/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Repo Key Não faca fresh start"
+
+name="Super Addon do Milton Repo Key"
+url="https://ia801501.us.archive.org/13/items/Repokey/Repokey.zip"
+img="https://archive.org/download/fanart_20160614/fanart.jpg"
+fanart="https://archive.org/download/fanart_20160614/fanart.jpg"
+description="Repo Key Não faca fresh start"
