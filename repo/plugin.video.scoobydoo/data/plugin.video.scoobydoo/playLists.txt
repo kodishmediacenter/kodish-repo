@@ -64,5 +64,11 @@
         "logos": "", 
         "image": "http://goo.gl/KU8Ofs", 
         "name": "Scooby-Doo Mistério S/A"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/kZmHbKEX", 
+        "logos": "", 
+        "image": "https://jovemnerd.com.br/wp-content/uploads/ads_scooby.jpg", 
+        "name": "Filmes do Scooby-Doo"
     }
 ]
