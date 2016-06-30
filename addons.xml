@@ -146,10 +146,10 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.filmes-familiatv" name="Filmes para Familia" version="1.0.0" provider-name="HouseGeek">
+<addon id="plugin.video.filmes-familiatv" name="Filmes para Familia" version="1.0.1" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="plugin.video.playlistloader"/>
+	<import addon="plugin.video.playlistLoader"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -173,6 +173,26 @@ http://www.hometheater.co.il</description>
         <description>Plays music and video from your Google Drive account.  Not affiliated with Google.</description>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="plugin.video.kodiescorpaio" name="Dicas do Alex Kodi Pt/Br" version="1.0.0" provider-name="House Geek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dicas do Alex Kodi Pt/Br</summary>
+    <description lang="en">Addon do Canal do Youtube Dicas do Alex Kodi Pt/Br</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
 </addon>
 
 <addon id="plugin.video.masterchefbr" name="Master Chef Brasil" version="1.0.0" provider-name="HouseGeek">
