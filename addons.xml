@@ -356,6 +356,26 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.sobretube" name="SobreTube" version="1.0.0" provider-name="House Geek">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SobreTube</summary>
+    <description lang="en">Uma seleÃ§Ã£o com canais indicados sobrenatural,Terro e Curiosidades Bizzarras</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.TrapalhoesTV" name="Trapalhoes TV" version="1.0.1" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
