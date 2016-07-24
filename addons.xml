@@ -109,6 +109,26 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.contentetv" version="1.0.0" name="contente tv" provider-name="HOUSEGEEK">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Contente TV</summary>
+    <description lang="en">Esse addon contem videos da Contente Tv </description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.docanimal" version="1.0.0" name="Documentario Animal" provider-name="HOUSEGEEK">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
