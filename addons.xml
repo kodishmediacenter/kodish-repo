@@ -69,6 +69,21 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.batman" name="Batman Tv" version="1.0.0" provider-name="Kodish-MC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="plugin.video.playlistLoader" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Addons para fans do Batman</summary>
+    <description lang="en">Addons para fans do Batman</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.caillou" name="Caillou" version="1.0.0" provider-name="HouseGeek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -108,7 +123,6 @@ http://www.hometheater.co.il</description>
     <website></website>
   </extension>
 </addon>
-
 
 <addon id="plugin.video.contentetv" version="1.0.0" name="contente tv" provider-name="HOUSEGEEK">
   <requires>
@@ -476,11 +490,11 @@ http://www.hometheater.co.il</description>
     <import addon="script.module.addon.common" version="2.0.0"/>
     <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
-	
+
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-	
+
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Velberan TV</summary>
     <description lang="en">Esse addon contem videos dos canais do Velberan </description>
@@ -490,5 +504,3 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 </addons>
-
-
